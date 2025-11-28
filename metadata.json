@@ -1,0 +1,5 @@
+{
+  "name": "Coalfield Truck Sim",
+  "description": "A simulation-only web app modeling truck movements, Wi-Fi based localization, and congestion-aware routing in a coalfield environment.",
+  "requestFramePermissions": []
+}
